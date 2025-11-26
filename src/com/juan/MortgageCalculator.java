@@ -8,7 +8,7 @@ public class MortgageCalculator {
     final static byte MONTHS_IN_YEAR = 12;
     final static byte PERCENT = 100;
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             scanner.useLocale(Locale.US);
 
